@@ -17,7 +17,7 @@ export KBUILD_BUILD_USER="Shripad"
 export KBUILD_BUILD_HOST="XDA"
 
 #export cross_compile
-export CROSS_COMPILE=/home/younilban/kernel/panelli/arm-gnu-7.x/bin/arm-gnu-linux-androideabi-
+export CROSS_COMPILE=/home/shripad/Desktop/TOOLCHAIN/gcc4.9/bin/arm-linux-androideabi-
 
 #Defconfig for Moto C plus
 #make -C $PWD O=$PWD/out ARCH=arm A158_defconfig
